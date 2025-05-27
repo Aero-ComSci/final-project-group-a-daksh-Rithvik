@@ -7,5 +7,5 @@ Our program is a super useful weather app for anyone who wants to check the fore
 - Helps you plan your day with confidence
 - Helps plan your clothing choice
 - Should go outside or not depending on too cold or hot
-
+- Uses a weather API in order to correctly identify the tempature in each city
 # Code Samples 
