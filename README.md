@@ -23,7 +23,11 @@
 lucky_city = ["los angeles", "dublin", "pleasanton", "miami", "durham"]
 #### - 🔹 **Implementing a loop**
 #### Code =
-
+for city in lucky_city:
+  print("Congratulations! You are the lucky winner!!!")
+  print("You get a Free Ice Cream")
+  lucky_city.remove(city)
+  break
 #### - 🔸 **Using a function**
 #### Code =
 
