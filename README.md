@@ -20,7 +20,7 @@
 
 #### - 🔸 **Using a collection (list)**
 #### Code =
-
+lucky_city = ["los angeles", "dublin", "pleasanton", "miami", "durham"]
 #### - 🔹 **Implementing a loop**
 #### Code =
 
