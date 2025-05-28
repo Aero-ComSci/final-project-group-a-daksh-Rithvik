@@ -20,5 +20,5 @@ if temp > 80:
   print("Get a cold icecream also its perfect for the weather!")
 elif temp < 50: 
   print("Its very cold outside! Wear a jacket.")
-  print("Also get a hot cip of coco its perfect for the weather!")
+  print("Also get a hot cup of cocoa its perfect for the weather!")
 
