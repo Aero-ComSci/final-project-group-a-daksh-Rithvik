@@ -18,4 +18,4 @@ Here are a few examples of how our code works:
 
 - Implementing a loop
 
-- Defining a function
+- Using a function
