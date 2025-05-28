@@ -42,3 +42,6 @@ if city in lucky_city:
 #### ✅ **Get real-time data & reliable forecasts**
 
 #### ✅ **Perfect for travelers, students, and outdoor lovers**
+
+# Screenshots 💻
+### All code screenshots
