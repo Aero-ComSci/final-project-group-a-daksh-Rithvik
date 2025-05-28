@@ -14,3 +14,11 @@ else:
     print("Congratulations! You are the lucky winner!!!")
     print("You get a Free Ice Cream")
     lucky_city.remove(city)
+
+if temp > 80: 
+  print("Its very hot outside! Wear some sunscreen.")
+  print("Get a cold icecream also its perfect for the weather!")
+elif temp < 50: 
+  print("Its very cold outside! Wear a jacket.")
+  print("Also get a hot cip of coco its perfect for the weather!")
+
