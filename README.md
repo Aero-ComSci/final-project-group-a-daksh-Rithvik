@@ -45,3 +45,4 @@ if city in lucky_city:
 
 # Screenshots 💻
 ### All code screenshots
+- 
