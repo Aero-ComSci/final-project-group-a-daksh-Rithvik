@@ -45,4 +45,13 @@ if city in lucky_city:
 
 # Screenshots 💻
 ### All code screenshots
-- 
+- ![image](https://github.com/user-attachments/assets/1b2be7f4-630e-4cd5-b5d2-b08d6321a508)
+- ![image](https://github.com/user-attachments/assets/7e383671-2836-49eb-8727-fe310624b25b)
+- ![image](https://github.com/user-attachments/assets/90b35283-6cee-4806-b81a-63116248dc1e)
+
+- ### If You Guess The Weather Of A Lucky City You Will Win A Prize! But Only 1 person can redeem the prize!
+- ![image](https://github.com/user-attachments/assets/add1a8d9-cd59-4aa2-b9cc-8e9a9a9a0e0d)
+
+
+
+
