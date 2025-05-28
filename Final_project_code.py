@@ -6,7 +6,7 @@ response = requests.get("https://api.openweathermap.org/data/2.5/weather?q=" + c
 data = response.json()
 
 print("Weather: " + data['weather'][0]['main'])
-print("Temperature: " + str(round(data['main']['temp'])) + 'F')
+print("Temperature: " + str(data['main']['temp'])) + 'F')
 if city in lucky_city:
   print("Congratulations! You are the lucky winner!!!")
   print("You get a Free Ice Cream")
