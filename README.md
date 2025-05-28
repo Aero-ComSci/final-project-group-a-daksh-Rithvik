@@ -4,9 +4,13 @@ Our program is a very useful weather app for anyone who wants to check the weath
 
 # Features 🔥
 ✅ Real-time weather updates for any city or state 
-✅ Simple, user-friendly interface for quick access 
-✅ Helps plan clothing choices based on temperature 
-✅ Decide whether to go outside depending on the weather 
+
+✅ Simple, user-friendly interface for quick access
+
+✅ Helps plan clothing choices based on temperature
+
+✅ Decide whether to go outside depending on the weather
+
 ✅ Uses a weather API for reliable forecasts
 
 # Code Samples 💻
