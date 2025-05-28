@@ -19,11 +19,13 @@
 #### 🔹 Here are a few examples of how our code works:
 
 #### - 🔸 **Using a collection (list)**
+#### Code =
 
 #### - 🔹 **Implementing a loop**
+#### Code =
 
 #### - 🔸 **Using a function**
-
+#### Code =
 
 # Why You'll Love This App 🎨
 #### ✅ **Bright, intuitive, and engaging UI**
