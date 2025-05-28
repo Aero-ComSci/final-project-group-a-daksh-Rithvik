@@ -5,20 +5,10 @@ city = input("Which City Weather Would You Like To Know: ").lower()
 response = requests.get("https://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=imperial&APPID=" + api_key)
 data = response.json()
 
-if data['cod'] == '404':
-  print("City Not Found")
-else:
-  print("Weather: " + data['weather'][0]['main'])
-  print("Temperature: " + str(round(data['main']['temp'])) + 'F')
-  if city in lucky_city:
-    print("Congratulations! You are the lucky winner!!!")
-    print("You get a Free Ice Cream")
-    lucky_city.remove(city)
-
-if temp > 80: 
-  print("Its very hot outside! Wear some sunscreen.")
-  print("Get a cold icecream also its perfect for the weather!")
-elif temp < 50: 
-  print("Its very cold outside! Wear a jacket.")
-  print("Also get a hot cup of cocoa its perfect for the weather!")
-
+print("Weather: " + data['weather'][0]['main'])
+print("Temperature: " + str(round(data['main']['temp'])) + 'F')
+for city in lucky_city:
+  print("Congratulations! You are the lucky winner!!!")
+  print("You get a Free Ice Cream")
+  lucky_city.remove(city)
+  break
